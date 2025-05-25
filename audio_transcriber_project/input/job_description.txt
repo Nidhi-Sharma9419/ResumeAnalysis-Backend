@@ -1,0 +1,7 @@
+Job Title: Senior Data Scientist
+
+Requirements:
+- 5+ years of experience in Python, SQL, and Machine Learning.
+- Expertise in NLP, TensorFlow/PyTorch.
+- Strong analytical and problem-solving skills.
+- Experience with cloud platforms (AWS/GCP).

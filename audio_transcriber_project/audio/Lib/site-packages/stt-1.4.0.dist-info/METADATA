@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: stt
+Version: 1.4.0
+Summary: A library for doing speech recognition using a Coqui STT model
+Home-page: https://github.com/coqui-ai/STT
+Author: Coqui GmbH
+License: MPL-2.0
+Project-URL: Documentation, https://stt.readthedocs.io
+Project-URL: Tracker, https://github.com/coqui-ai/STT/issues
+Project-URL: Repository, https://github.com/coqui-ai/STT/tree/v1.4.0
+Project-URL: Discussions, https://github.com/coqui-ai/STT/discussions
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Multimedia :: Sound/Audio :: Speech
+Classifier: Topic :: Scientific/Engineering :: Human Machine Interfaces
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6,<3.11
+Description-Content-Type: text/x-rst; charset=UTF-8
+Requires-Dist: numpy (>=1.21.4)
+
+Full project description and documentation on `https://stt.readthedocs.io/ <https://stt.readthedocs.io/>`_
+
+
