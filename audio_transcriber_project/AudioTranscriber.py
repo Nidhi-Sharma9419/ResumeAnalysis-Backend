@@ -7,8 +7,8 @@ from typing import Dict, List, Tuple
 
 class AudioTranscriber:
     def __init__(self):
-        self.model_path = "models/deepspeech-0.8.2-models.tflite"
-        self.scorer_path = "models/deepspeech-0.8.2-models.scorer"
+        self.model_path = "audio_transcriber_project/models/deepspeech-0.8.2-models.tflite"
+        self.scorer_path = "audio_transcriber_project/models/deepspeech-0.8.2-models.scorer"
         self.filler_words = ["um", "uh", "ah", "er", "like", "you know", "well", "so", "actually", "basically"]
         self.vad = webrtcvad.Vad(3)  # Aggressiveness level 3 (most aggressive)
         
